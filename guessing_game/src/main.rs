@@ -30,5 +30,6 @@ fn main() {
             Ordering::Greater => println!("It was too large!"),
         }
         println!("You guessed: {}", guess);
+
     }
 }
